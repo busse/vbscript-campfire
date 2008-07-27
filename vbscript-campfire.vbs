@@ -3,7 +3,7 @@
 '
 ' USAGE:
 '
-' vbscript campfire [http|https] [account] [email username] [pasword] [room-id] [message]
+' vbscript campfire [http|https] [account] [email username] [password] [room-id] [message]
 '
 ' ###
 
